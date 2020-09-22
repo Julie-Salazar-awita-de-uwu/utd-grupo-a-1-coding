@@ -1,0 +1,14 @@
+#Include <stdlib.h>// libreria estandar para realizar funciones en el sistema
+#Include <stdio.h> // libreria para entrada y salida de informacion de la pantalla
+
+//funcion principal
+int main () {//inicio del programa
+
+
+print("La flor que florece en la adversidad es la más bella y hermosa de todas");
+print("Here we go again");
+
+system("pause");
+return 0.
+}//fin del programa
+
